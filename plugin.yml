@@ -1,0 +1,8 @@
+name: SendMeItems
+main: me.xelatercero.smi.Main
+version: 1.0
+api-version: 1.16
+commands:
+    smi:
+        description: Main command
+        usage: /<command> help
